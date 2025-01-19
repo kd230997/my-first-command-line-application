@@ -1,0 +1,10 @@
+# environment.yaml
+name: command-line-env
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.5
+  - anaconda
+  - pip
+  - pip:
+      - -r file:requirements.txt
