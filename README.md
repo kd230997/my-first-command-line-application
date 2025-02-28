@@ -18,3 +18,6 @@ conda activate command-line-env
 conda install --file requirements.txt
 ```
 
+# Build code into cli
+
+pip install --editable .

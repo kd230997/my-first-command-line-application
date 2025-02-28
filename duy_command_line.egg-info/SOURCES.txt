@@ -1,8 +1,0 @@
-hello_world.py
-setup.py
-duy_command_line.egg-info/PKG-INFO
-duy_command_line.egg-info/SOURCES.txt
-duy_command_line.egg-info/dependency_links.txt
-duy_command_line.egg-info/entry_points.txt
-duy_command_line.egg-info/requires.txt
-duy_command_line.egg-info/top_level.txt
